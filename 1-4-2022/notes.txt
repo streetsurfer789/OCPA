@@ -1,0 +1,6 @@
+Added support for the Gravity CIP and Development csvs with all dropdowns funtioning 
+-Added some styling
+-Will have to remove the capability of resetting the table once its been loaded once 
+there is some limitation that does not allow us to reset it once its set
+-Everything is going smoothly and will work on the Pump and Pressure CIP and Dev csv compatability
+-Added the save csv functionality which will save the changes in the csv
