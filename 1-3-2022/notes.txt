@@ -1,0 +1,4 @@
+Made progress towards finishing the csv to excel viewer
+- Added drop down menus and completed the Gravity Development portion 
+- Planning on working on the Gravity CIP next and go from there
+- No issues on todays development
