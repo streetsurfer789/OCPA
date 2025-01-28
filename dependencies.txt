@@ -1,0 +1,7 @@
+pip install --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org pandas
+
+
+pip install --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org pandastable -vvv
+
+
+pip install --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org --upgrade pip -vvv
